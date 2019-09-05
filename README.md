@@ -4,7 +4,9 @@ We compare two recently proposed methods that combine ideas from conformal infer
 quantile regression to produce locally adaptive and marginally valid prediction intervals under
 sample exchangeability.
 
-Accompanying paper: Matteo Sesia and Emmanuel J. Candes, "A comparison of different conformal quantile regression methods", 2019.
+Accompanying paper:
+
+ - Matteo Sesia and Emmanuel J. Candes, "A comparison of different conformal quantile regression methods", 2019.
 
 The methods we are comparing are described in:
 
