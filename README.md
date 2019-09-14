@@ -6,7 +6,7 @@ sample exchangeability.
 
 Accompanying paper:
 
- - Matteo Sesia and Emmanuel J. Candes, "A comparison of different conformal quantile regression methods", 2019.
+ - Matteo Sesia and Emmanuel J. Candes, "A comparison of some conformal quantile regression methods", 2019. [arXiv:1909.05433](https://arxiv.org/abs/1909.05433)
 
 The methods we are comparing are described in:
 
